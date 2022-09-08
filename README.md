@@ -1,6 +1,6 @@
 # Theme Switch
 
-This resoisitory contains the sample that how to change the theme Statically or Dynamically in ASP.NET Core controls.
+This repository contains the sample that how to change the theme Statically or Dynamically in ASP.NET Core controls.
 
 ## Prerequisites
 
